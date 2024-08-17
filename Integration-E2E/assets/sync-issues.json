@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "planId": "003HAC-mock",
+      "planName": "AETNA PPO",
+      "reRunEnabled": true,
+      "planYearStartDate": "10/01/2022",
+      "planYearEndDate": "09/30/2023",
+      "effectiveDate": "03/17/2023",
+      "status": "Failed",
+      "errorDescription": "Database sync failure",
+      "detailedDescription": "Single Deductible 1000% is not a Currency."
+    },
+    {
+      "id": 2,
+      "planId": "003HAD-mock",
+      "planName": "AETNA PPO 1000",
+      "reRunEnabled": false,
+      "planYearStartDate": "10/01/2022",
+      "planYearEndDate": "09/30/2023",
+      "effectiveDate": "04/22/2023",
+      "status": "In Progress",
+      "errorDescription": "",
+      "detailedDescription": ""
+    },
+    {
+      "id": 3,
+      "planId": "003HAE-mock",
+      "planName": "AETNA PPO 300",
+      "reRunEnabled": true,
+      "planYearStartDate": "10/01/2022",
+      "planYearEndDate": "09/30/2023",
+      "effectiveDate": "01/10/2023",
+      "status": "Failed",
+      "errorDescription": "Database sync failure",
+      "detailedDescription": "Single Deductible 1000% is not a Currency."
+    },
+    {
+      "id": 4,
+      "planId": "003HAC-mock",
+      "planName": "AETNA HMO",
+      "reRunEnabled": true,
+      "planYearStartDate": "10/01/2022",
+      "planYearEndDate": "09/30/2023",
+      "effectiveDate": "03/17/2023",
+      "status": "Failed",
+      "errorDescription": "Database sync failure",
+      "detailedDescription": "Single Deductible 1000% is not a Currency."
+    },
+    {
+      "id": 1,
+      "planId": "003HAC-mock",
+      "planName": "AETNA HMO 300",
+      "reRunEnabled": false,
+      "planYearStartDate": "10/01/2022",
+      "planYearEndDate": "09/30/2023",
+      "effectiveDate": "03/25/2023",
+      "status": "In Progress",
+      "errorDescription": "",
+      "detailedDescription": ""
+    }
+  ],
+  "_requestId": "ZGTlrcouG7@5yWYK8bAimgAAAFU",
+  "_statusCode": "200",
+  "_statusText": "OK",
+  "_statusMessage": "Success"
+}

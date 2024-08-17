@@ -1,0 +1,43 @@
+{
+    "data": {
+        "basePlanId": "8acba22f8ad78d41018ad8d3d777005d",
+        "basePlanName": "Aetna EyeMed",
+        "exchange": "TRINET III",
+        "regionalPlans": [
+            {
+                "planName": "Aetna EyeMed",
+                "planId": "004S5I",
+                "quarter": "Q4"
+            },
+            {
+                "planName": "Aetna EyeMed",
+                "planId": "0052V5",
+                "quarter": "Q1"
+            },
+            {
+                "planName": "Aetna EyeMed Vol",
+                "planId": "004S61",
+                "quarter": "Q4"
+            },
+            {
+                "planName": "Aetna EyeMed Vol",
+                "planId": "0052W8",
+                "quarter": "Q1"
+            },
+            {
+                "planName": "Aetna EyeMed",
+                "planId": "005AJE",
+                "quarter": "Q2"
+            },
+            {
+                "planName": "Aetna EyeMed Vol",
+                "planId": "005AKH",
+                "quarter": "Q2"
+            }
+        ]
+    },
+    "_requestId": "27782227be1fad21edb07387e5bf9bf6",
+    "_statusCode": "200",
+    "_statusText": "OK",
+    "_statusMessage": "OK"
+}

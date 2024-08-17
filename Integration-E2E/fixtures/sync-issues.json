@@ -1,0 +1,7 @@
+{
+    "BNCBS943": {
+        "back": "Back",
+        "successAlertTitle": "We received your resubmission",
+        "successAlertMessage": "Check this page in a couple minutes to ensure your sync has succeeded. If you do not see any errors, your sync was successful."
+    }
+}

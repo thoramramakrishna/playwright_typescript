@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "industry": "PEO",
+      "benefitType": "Medical",
+      "description": "PEO Medical"
+    },
+    {
+      "id": "2",
+      "industry": "PEO",
+      "benefitType": "Dental",
+      "description": "PEO Dental"
+    },
+    {
+      "id": "3",
+      "industry": "PEO",
+      "benefitType": "Vision",
+      "description": "PEO Vision"
+    }
+  ],
+  "_requestId": "354c2c2c-b43d-40be-997a-6c6389eaaf69",
+  "_statusCode": "200",
+  "_statusText": "OK",
+  "_statusMessage": "OK"
+}

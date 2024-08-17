@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": 5,
+      "name": "TriNet I",
+      "description": "Accord Clients",
+      "excludeOfferTypes": []
+    },
+    {
+      "id": 4,
+      "name": "TriNet II",
+      "description": "SOI Clients",
+      "excludeOfferTypes": []
+    },
+    {
+      "id": 3,
+      "name": "TriNet III",
+      "description": "Passport Clients",
+      "excludeOfferTypes": []
+    },
+    {
+      "id": 1,
+      "name": "TriNet IV",
+      "description": "Ambrose Clients",
+      "excludeOfferTypes": []
+    },
+    {
+      "id": 2,
+      "name": "TriNet XI",
+      "description": "Medical Carve Out Clients",
+      "excludeOfferTypes": ["Medical"]
+    }
+  ],
+  "_requestId": "ZGTlrcouG7@5yWYK8bAimgAAAFU",
+  "_statusCode": "200",
+  "_statusText": "OK",
+  "_statusMessage": "Success"
+}

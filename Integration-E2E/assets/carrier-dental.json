@@ -1,0 +1,17 @@
+{
+  "data": [
+      {
+          "name": "Aetna"
+      },
+      {
+          "name": "Empire"
+      },
+      {
+          "name": "Vision Service Plan (VSP)"
+      }
+  ],
+  "_requestId": "4adb1e704ab3d89769467af4c1a15098",
+  "_statusCode": "200",
+  "_statusText": "OK",
+  "_statusMessage": "OK"
+}

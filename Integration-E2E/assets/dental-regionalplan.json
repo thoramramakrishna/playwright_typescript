@@ -1,0 +1,163 @@
+{
+    "data": {
+        "basePlanId": "8acba22f8ad78d41018ad8ca4c33001d",
+        "basePlanName": "Aetna Dental 0",
+        "exchange": "TRINET III",
+        "regionalPlans": [
+            {
+                "planName": "Aetna Dental 0",
+                "planId": "006IG2",
+                "quarter": "Q4"
+            },
+            {
+                "planName": "Aetna Dental 0",
+                "planId": "006MPO",
+                "quarter": "Q1"
+            },
+            {
+                "planName": "Aetna Dental 0 LA",
+                "planId": "006IG6",
+                "quarter": "Q4"
+            },
+            {
+                "planName": "Aetna Dental 0 LA",
+                "planId": "006MPS",
+                "quarter": "Q1"
+            },
+            {
+                "planName": "Aetna Dental 0 MS",
+                "planId": "006IGA",
+                "quarter": "Q4"
+            },
+            {
+                "planName": "Aetna Dental 0 MS",
+                "planId": "006MPW",
+                "quarter": "Q1"
+            },
+            {
+                "planName": "Aetna Dental 0 TX",
+                "planId": "006IGI",
+                "quarter": "Q4"
+            },
+            {
+                "planName": "Aetna Dental 0 TX",
+                "planId": "006MQ4",
+                "quarter": "Q1"
+            },
+            {
+                "planName": "Aetna Dental 0 MT",
+                "planId": "006IGE",
+                "quarter": "Q4"
+            },
+            {
+                "planName": "Aetna Dental 0 MT",
+                "planId": "006MQ0",
+                "quarter": "Q1"
+            },
+            {
+                "planName": "Aetna Dental 0 TX Vol",
+                "planId": "006IJW",
+                "quarter": "Q4"
+            },
+            {
+                "planName": "Aetna Dental 0 TX Vol",
+                "planId": "006MOB",
+                "quarter": "Q1"
+            },
+            {
+                "planName": "Aetna Dental 0 LA Vol",
+                "planId": "006IJK",
+                "quarter": "Q4"
+            },
+            {
+                "planName": "Aetna Dental 0 LA Vol",
+                "planId": "006MNZ",
+                "quarter": "Q1"
+            },
+            {
+                "planName": "Aetna Dental 0 Vol",
+                "planId": "006IJG",
+                "quarter": "Q4"
+            },
+            {
+                "planName": "Aetna Dental 0 Vol",
+                "planId": "006MNV",
+                "quarter": "Q1"
+            },
+            {
+                "planName": "Aetna Dental 0 MT Vol",
+                "planId": "006IJS",
+                "quarter": "Q4"
+            },
+            {
+                "planName": "Aetna Dental 0 MT Vol",
+                "planId": "006MO7",
+                "quarter": "Q1"
+            },
+            {
+                "planName": "Aetna Dental 0 MS Vol",
+                "planId": "006IJO",
+                "quarter": "Q4"
+            },
+            {
+                "planName": "Aetna Dental 0 MS Vol",
+                "planId": "006MO3",
+                "quarter": "Q1"
+            },
+            {
+                "planName": "Aetna Dental 0",
+                "planId": "0065PF",
+                "quarter": "Q2"
+            },
+            {
+                "planName": "Aetna Dental 0 LA",
+                "planId": "0065PJ",
+                "quarter": "Q2"
+            },
+            {
+                "planName": "Aetna Dental 0 MS",
+                "planId": "0065PN",
+                "quarter": "Q2"
+            },
+            {
+                "planName": "Aetna Dental 0 TX",
+                "planId": "0065PV",
+                "quarter": "Q2"
+            },
+            {
+                "planName": "Aetna Dental 0 MT",
+                "planId": "0065PR",
+                "quarter": "Q2"
+            },
+            {
+                "planName": "Aetna Dental 0 TX Vol",
+                "planId": "0065LQ",
+                "quarter": "Q2"
+            },
+            {
+                "planName": "Aetna Dental 0 LA Vol",
+                "planId": "0065LE",
+                "quarter": "Q2"
+            },
+            {
+                "planName": "Aetna Dental 0 Vol",
+                "planId": "0065LA",
+                "quarter": "Q2"
+            },
+            {
+                "planName": "Aetna Dental 0 MT Vol",
+                "planId": "0065LM",
+                "quarter": "Q2"
+            },
+            {
+                "planName": "Aetna Dental 0 MS Vol",
+                "planId": "0065LI",
+                "quarter": "Q2"
+            }
+        ]
+    },
+    "_requestId": "a296ca1ffb7471a0eec45698e4eac058",
+    "_statusCode": "200",
+    "_statusText": "OK",
+    "_statusMessage": "OK"
+}

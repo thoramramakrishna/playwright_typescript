@@ -1,0 +1,648 @@
+{
+    "data": [
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8ca4c33001d",
+            "basePlanName": "Aetna Dental 0",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8ca4c33001d_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8ca4c33001d_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8ca4c33001d_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8c6bfde0003",
+            "basePlanName": "Aetna Dental 0 LA",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8c6bfde0003_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8de147f00a6",
+            "basePlanName": "Aetna Dental 0 LA Vol",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8de147f00a6_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8c75a640005",
+            "basePlanName": "Aetna Dental 0 MS",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8c75a640005_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8e15b0600a0",
+            "basePlanName": "Aetna Dental 0 MS Vol",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8e15b0600a0_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8c88cb1000e",
+            "basePlanName": "Aetna Dental 0 MT",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8c88cb1000e_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8dedc3d009c",
+            "basePlanName": "Aetna Dental 0 MT Vol",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8dedc3d009c_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8c7bb890008",
+            "basePlanName": "Aetna Dental 0 TX",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8c7bb890008_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8da34ed0090",
+            "basePlanName": "Aetna Dental 0 TX Vol",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8da34ed0090_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8de616c00a8",
+            "basePlanName": "Aetna Dental 0 Vol",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8de616c00a8_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8c6ecf40004",
+            "basePlanName": "Aetna Dental 100",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba4aa8ad79001018ad8c6ecf40004_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba4aa8ad79001018ad8c6ecf40004_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8c6ecf40004_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8c698e80001",
+            "basePlanName": "Aetna Dental 100 LA",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8c698e80001_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8ddd86c00a4",
+            "basePlanName": "Aetna Dental 100 LA Vol",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8ddd86c00a4_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8c7295a0006",
+            "basePlanName": "Aetna Dental 100 MS",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8c7295a0006_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8df2fdc00ad",
+            "basePlanName": "Aetna Dental 100 MS Vol",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8df2fdc00ad_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8c808db000a",
+            "basePlanName": "Aetna Dental 100 MT",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8c808db000a_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8de87ab0099",
+            "basePlanName": "Aetna Dental 100 MT Vol",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8de87ab0099_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8c7802d0008",
+            "basePlanName": "Aetna Dental 100 TX",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8c7802d0008_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8da09d4008e",
+            "basePlanName": "Aetna Dental 100 TX Vol",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8da09d4008e_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8de3aa600a7",
+            "basePlanName": "Aetna Dental 100 Vol",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8de3aa600a7_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8ca61610018",
+            "basePlanName": "Aetna Dental 50",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba4aa8ad79001018ad8ca61610018_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba4aa8ad79001018ad8ca61610018_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8ca61610018_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8c6d9090002",
+            "basePlanName": "Aetna Dental 50 LA",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8c6d9090002_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8de27e60097",
+            "basePlanName": "Aetna Dental 50 LA Vol",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8de27e60097_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8c714400003",
+            "basePlanName": "Aetna Dental 50 MS",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8c714400003_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8e16f7100a1",
+            "basePlanName": "Aetna Dental 50 MS Vol",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8e16f7100a1_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8c7e3e10009",
+            "basePlanName": "Aetna Dental 50 MT",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8c7e3e10009_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8def2ca00ab",
+            "basePlanName": "Aetna Dental 50 MT Vol",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8def2ca00ab_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8c76d1c0007",
+            "basePlanName": "Aetna Dental 50 TX",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8c76d1c0007_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8da83fc007c",
+            "basePlanName": "Aetna Dental 50 TX Vol",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8da83fc007c_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8de748200a9",
+            "basePlanName": "Aetna Dental 50 Vol",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8de748200a9_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8c701780005",
+            "basePlanName": "Aetna Dental Value",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba4aa8ad79001018ad8c701780005_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba4aa8ad79001018ad8c701780005_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8c701780005_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8c6acd60002",
+            "basePlanName": "Aetna Dental Value LA",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8c6acd60002_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8dde9d00096",
+            "basePlanName": "Aetna Dental Value LA Vol",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8dde9d00096_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8c85591000b",
+            "basePlanName": "Aetna Dental Value MS",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8c85591000b_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8e12e3b009f",
+            "basePlanName": "Aetna Dental Value MS Vol",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8e12e3b009f_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8c7a5c40007",
+            "basePlanName": "Aetna Dental Value MT",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8c7a5c40007_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8deb08b00aa",
+            "basePlanName": "Aetna Dental Value MT Vol",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8deb08b00aa_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8c94c650013",
+            "basePlanName": "Aetna Dental Value TX",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8c94c650013_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8da2053008f",
+            "basePlanName": "Aetna Dental Value TX Vol",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8da2053008f_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8de4dee0098",
+            "basePlanName": "Aetna Dental Value Vol",
+            "benefitType": "Dental",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8de4dee0098_SBC_10012021"
+                }
+            ]
+        }
+    ],
+    "_requestId": "b4c0e85031cb5ad4e6b2e4bd69b37f63",
+    "_statusCode": "200",
+    "_statusText": "OK",
+    "_statusMessage": "OK"
+}

@@ -1,0 +1,178 @@
+[
+    {
+        "id": 50,
+        "name": "Examination Copay In-Network",
+        "displayName": "Examination Copay In-Network",
+        "value": "$10",
+        "transformedValue": "",
+        "dataType": "CURRENCY",
+        "validationRule": "^\\$(([1-9]\\d{0,2}(,\\d{3})*)|(([1-9]\\d*)?\\d))(\\.\\d\\d)?$",
+        "displayOrder": 1,
+        "optional": false,
+        "validationType": "soft",
+        "changeEffectiveDates": [
+            "01/01/2024 [Q1]"
+        ],
+        "validValue": "$10",
+        "invalidValue": ""
+    },
+    {
+        "id": 51,
+        "name": "Examination Copay Out-of-Network",
+        "displayName": "Examination Copay Out-of-Network",
+        "value": "Reimbursed up to $45",
+        "transformedValue": "",
+        "dataType": "STRING",
+        "validationRule": null,
+        "displayOrder": 2,
+        "optional": false,
+        "validationType": "soft",
+        "changeEffectiveDates": [],
+        "validValue": "Reimbursed up to $45",
+        "invalidValue": ""
+    },
+    {
+        "id": 52,
+        "name": "Examination Frequency",
+        "displayName": "Examination Frequency",
+        "value": "Every 12 months",
+        "transformedValue": "",
+        "dataType": "STRING",
+        "validationRule": null,
+        "displayOrder": 3,
+        "optional": false,
+        "validationType": "soft",
+        "changeEffectiveDates": [
+            "01/01/2024 [Q1]"
+        ],
+        "validValue": "Every 12 months",
+        "invalidValue": ""
+    },
+    {
+        "id": 53,
+        "name": "Materials Copay In-Network",
+        "displayName": "Materials Copay In-Network",
+        "value": "$20",
+        "transformedValue": "",
+        "dataType": "STRING",
+        "validationRule": null,
+        "displayOrder": 4,
+        "optional": false,
+        "validationType": "soft",
+        "changeEffectiveDates": [
+            "01/01/2024 [Q1]"
+        ],
+        "validValue": "$20",
+        "invalidValue": ""
+
+    },
+    {
+        "id": 54,
+        "name": "Materials Copay Out-of-Network",
+        "displayName": "Materials Copay Out-of-Network",
+        "value": "Reimbursed up to $45/$65/$85 Single/Bifocal/Trifocal",
+        "transformedValue": "",
+        "dataType": "STRING",
+        "validationRule": null,
+        "displayOrder": 5,
+        "optional": false,
+        "validationType": "soft",
+        "changeEffectiveDates": [],
+        "validValue": "Reimbursed up to $45/$65/$85 Single/Bifocal/Trifocal",
+        "invalidValue": ""
+    },
+    {
+        "id": 55,
+        "name": "Lenses or Contact Lens Frequency",
+        "displayName": "Lenses or Contact Lens Frequency",
+        "value": "Every 12 months",
+        "transformedValue": "",
+        "dataType": "STRING",
+        "validationRule": null,
+        "displayOrder": 6,
+        "optional": false,
+        "validationType": "soft",
+        "changeEffectiveDates": [],
+        "validValue": "Every 12 months",
+        "invalidValue": ""
+    },
+    {
+        "id": 56,
+        "name": "Frames Allowance In-Network",
+        "displayName": "Frames Allowance In-Network",
+        "value": "$130",
+        "transformedValue": "",
+        "dataType": "STRING",
+        "validationRule": null,
+        "displayOrder": 7,
+        "optional": false,
+        "validationType": "soft",
+        "changeEffectiveDates": [],
+        "validValue": "$130",
+        "invalidValue": ""
+
+    },
+    {
+        "id": 57,
+        "name": "Frames Allowance Out-of-Network",
+        "displayName": "Frames Allowance Out-of-Network",
+        "value": "Reimbursed up to $47",
+        "transformedValue": "",
+        "dataType": "STRING",
+        "validationRule": null,
+        "displayOrder": 8,
+        "optional": false,
+        "validationType": "soft",
+        "changeEffectiveDates": [],
+        "validValue": "Reimbursed up to $47",
+        "invalidValue": ""
+
+    },
+    {
+        "id": 58,
+        "name": "Frames Frequency",
+        "displayName": "Frames Frequency",
+        "value": "Every 24 months",
+        "transformedValue": "",
+        "dataType": "STRING",
+        "validationRule": null,
+        "displayOrder": 9,
+        "optional": false,
+        "validationType": "soft",
+        "changeEffectiveDates": [],
+        "validValue": "Every 24 months",
+        "invalidValue": ""
+
+    },
+    {
+        "id": 59,
+        "name": "Frequency",
+        "displayName": "Frequency",
+        "value": "12/12/24",
+        "transformedValue": "",
+        "dataType": "STRING",
+        "validationRule": null,
+        "displayOrder": 10,
+        "optional": false,
+        "validationType": "soft",
+        "changeEffectiveDates": [],
+        "validValue": "12/12/24",
+        "invalidValue": ""
+
+    },
+    {
+        "id": 16,
+        "name": "Situs",
+        "displayName": "Situs",
+        "value": "FL",
+        "transformedValue": "",
+        "dataType": "STRING",
+        "validationRule": null,
+        "displayOrder": 11,
+        "optional": false,
+        "validationType": "soft",
+        "changeEffectiveDates": [],
+        "validValue": "FL",
+        "invalidValue": ""
+    }
+]

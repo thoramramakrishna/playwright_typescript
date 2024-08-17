@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "basePlanId": "P0001",
+      "basePlanName": "AETNA ACO 1000 AZ",
+      "benefitType": "Medical",
+      "carrier": "Aetna",
+      "planType": "PPO",
+      "planYearList": [
+        {
+          "planYearStartDate": "10/01/2022",
+          "planYearEndDate": "09/30/2023",
+          "documentId": "003HAC-mock-20221001"
+        },
+        {
+          "planYearStartDate": "10/01/2021",
+          "planYearEndDate": "09/30/2022",
+          "documentId": "003HAD-mock-20221001"
+        },
+        {
+          "planYearStartDate": "10/01/2020",
+          "planYearEndDate": "09/30/2021",
+          "documentId": null
+        }
+      ]
+    },
+    {
+      "basePlanId": "P0002",
+      "basePlanName": "AETNA ACO 1000 TX",
+      "benefitType": "Medical",
+      "carrier": "Aetna",
+      "planType": "HMO",
+      "planYearList": [
+        {
+          "planYearStartDate": "10/01/2022",
+          "planYearEndDate": "09/30/2023",
+          "documentId": null
+        },
+        {
+          "planYearStartDate": "10/01/2021",
+          "planYearEndDate": "09/30/2022",
+          "documentId": "003HAE-mock-20221001"
+        },
+        {
+          "planYearStartDate": "10/01/2020",
+          "planYearEndDate": "09/30/2021",
+          "documentId": "003HAF-mock-20221001"
+        }
+      ]
+    }
+  ],
+  "_requestId": "ZD6oQ5lvTkSsrLrUMdwGxQAAAYE",
+  "_statusCode": "200",
+  "_statusText": "OK",
+  "_statusMessage": "OK"
+}

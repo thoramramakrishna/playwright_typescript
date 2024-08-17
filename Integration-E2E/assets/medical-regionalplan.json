@@ -1,0 +1,43 @@
+{
+    "data": {
+        "basePlanId": "8acba22f8ad78d41018ad8ddfec000a5",
+        "basePlanName": "AETNA ACO 1000 AZ",
+        "exchange": "TRINET III",
+        "regionalPlans": [
+            {
+                "planName": "AETNA ACO 1000 AZ",
+                "planId": "003HAC",
+                "quarter": "Q4"
+            },
+            {
+                "planName": "AETNA ACO 1000 AZ",
+                "planId": "003LM9",
+                "quarter": "Q1"
+            },
+            {
+                "planName": "AETNA ACO 1000 AZ",
+                "planId": "003UZH",
+                "quarter": "Q2"
+            },
+            {
+                "planName": "Aetna ACO 1000 AZ",
+                "planId": "003GSZ",
+                "quarter": "Q4"
+            },
+            {
+                "planName": "Aetna ACO 1000 AZ",
+                "planId": "003LIV",
+                "quarter": "Q1"
+            },
+            {
+                "planName": "Aetna ACO 1000 AZ",
+                "planId": "003UW2",
+                "quarter": "Q2"
+            }
+        ]
+    },
+    "_requestId": "af2f7ca3fe2e46517ce1e4de350964a9",
+    "_statusCode": "200",
+    "_statusText": "OK",
+    "_statusMessage": "OK"
+}

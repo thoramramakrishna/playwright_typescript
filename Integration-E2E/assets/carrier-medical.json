@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "name": "Aetna"
+    },
+    {
+      "name": "Blue Cross Blue Shield of Minnesota nm"
+    },
+    {
+      "name": "Blue Cross Blue Shield of North Carolina"
+    },
+    {
+      "name": "Blue Shield of California"
+    },
+    {
+      "name": "Empire"
+    },
+    {
+      "name": "Florida Blue"
+    },
+    {
+      "name": "Kaiser Permanente"
+    },
+    {
+      "name": "Tufts Health Plan"
+    },
+    {
+      "name": "UnitedHealthcare"
+    }
+  ],
+  "_requestId": "38e5da8a-8e65-4c5e-af38-877d56f02c82",
+  "_statusCode": "200",
+  "_statusText": "OK",
+  "_statusMessage": "OK"
+}

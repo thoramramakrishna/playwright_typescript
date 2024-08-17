@@ -1,0 +1,38 @@
+[
+    {
+        "basePlanNameFilter": "AETNA ACO 1000 AZ",
+        "planName": "AETNA ACO 1000 AZ",
+        "planID": "003HAC",
+        "quarter": "Q4",
+        "exchange": "TriNet III",
+        "carrier": "Aetna",
+        "benefitType": "Medical",
+        "question": "Would you like to see the base plan mapped to regional plans?",
+        "Q1": "Q1",
+        "Q4": "Q4"
+    },
+    {
+        "basePlanNameFilter": "Aetna Dental 0",
+        "planName": "Aetna Dental 0",
+        "planID": "006IG2",
+        "quarter": "Q4",
+        "exchange": "TriNet III",
+        "carrier": "Aetna",
+        "benefitType": "Dental",
+        "question": "Would you like to see the base plan mapped to regional plans?",
+        "Q1": "Q1",
+        "Q4": "Q4"
+    },
+    {
+        "basePlanNameFilter": "Aetna EyeMed",
+        "planName": "Aetna EyeMed",
+        "planID": "004S5I",
+        "quarter": "Q4",
+        "exchange": "TriNet III",
+        "carrier": "Aetna",
+        "benefitType": "Vision",
+        "question": "Would you like to see the base plan mapped to regional plans?",
+        "Q1": "Q1",
+        "Q4": "Q4"
+    }
+]

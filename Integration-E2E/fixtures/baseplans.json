@@ -1,0 +1,36 @@
+[{
+  "exchange": "TriNet III",
+  "carrier": "Aetna",
+  "benefitType": "Medical",
+  "basePlanNameFilter": "AETNA ACO 1000 AZ",
+  "test": "test",
+  "invalidPlanName": "test test test test test test test test test test test test test test test test",
+  "planType": "ACO",
+  "currentPlanYear": "10/01/2023 - 09/30/2024",
+  "nestedFuturePlan": "10/01/2023 - 09/30/2024",
+  "nestedPastPlan": "10/01/2021 - 09/30/2022"
+},
+{
+  "exchange": "TriNet III",
+  "carrier": "Aetna",
+  "benefitType": "Dental",
+  "basePlanNameFilter": "Aetna Dental 0",
+  "test": "test",
+  "invalidPlanName": "test test test test test test test test test test test test test test test test",
+  "planType": "PPO",
+  "currentPlanYear": "10/01/2023 - 09/30/2024",
+  "nestedFuturePlan": "10/01/2023 - 09/30/2024",
+  "nestedPastPlan": "10/01/2021 - 09/30/2022"
+},
+{
+  "exchange": "TriNet III",
+  "carrier": "Aetna",
+  "benefitType": "Vision",
+  "basePlanNameFilter": "Aetna EyeMed",
+  "test": "test",
+  "invalidPlanName": "test test test test test test test test test test test test test test test test",
+  "planType": "",
+  "currentPlanYear": "10/01/2023 - 09/30/2024",
+  "nestedFuturePlan": "10/01/2023 - 09/30/2024",
+  "nestedPastPlan": "10/01/2021 - 09/30/2022"
+}]

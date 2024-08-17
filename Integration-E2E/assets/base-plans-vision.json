@@ -1,0 +1,88 @@
+{
+    "data": [
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8d3d777005d",
+            "basePlanName": "Aetna EyeMed",
+            "benefitType": "Vision",
+            "carrier": "Aetna",
+            "planType": null,
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8d3d777005d_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8d3d777005d_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8d3d777005d_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8d36f38004f",
+            "basePlanName": "Aetna EyeMed Plus",
+            "benefitType": "Vision",
+            "carrier": "Aetna",
+            "planType": null,
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba4aa8ad79001018ad8d36f38004f_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba4aa8ad79001018ad8d36f38004f_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8d36f38004f_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8d447170060",
+            "basePlanName": "Aetna EyeMed Plus Vol",
+            "benefitType": "Vision",
+            "carrier": "Aetna",
+            "planType": null,
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8d447170060_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8d458910061",
+            "basePlanName": "Aetna EyeMed Vol",
+            "benefitType": "Vision",
+            "carrier": "Aetna",
+            "planType": null,
+            "templateId": null,
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8d458910061_SBC_10012021"
+                }
+            ]
+        }
+    ],
+    "_requestId": "0078a6d924c8bbee9bb847d706d18923",
+    "_statusCode": "200",
+    "_statusText": "OK",
+    "_statusMessage": "OK"
+}

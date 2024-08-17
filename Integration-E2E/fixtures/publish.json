@@ -1,0 +1,48 @@
+[
+    {
+       "planName": "AETNA ACO 1000 AZ",
+       "quarter": "Q4",
+       "exchange": "TriNet III",
+       "carrier": "Aetna",
+       "twoThousand": "$2,005",
+       "Thousand": "$1,000",
+       "benefitType": "Medical",
+       "effectiveDate": "05/30/2025",
+       "Q1": "Q1",
+       "Q4": "Q4",
+       "month":"JUN",
+       "Year":"2025",
+       "date":"06/30/2025",
+       "fieldName": "Single Deductible"
+    },{
+      "planName": "Aetna Dental 0",
+      "quarter": "Q4",
+      "exchange": "TriNet III",
+      "carrier": "Aetna",
+      "twoThousand": "$2,005",
+      "Thousand": "$1,000",
+      "benefitType": "Dental",
+      "effectiveDate": "06/30/2025",
+      "Q1": "Q1",
+      "Q4": "Q4",
+      "month":"JUN",
+      "Year":"2025",
+      "date":"06/30/2025",
+      "fieldName": "Individual Deductible - In Network"
+  },
+  {
+    "planName": "Aetna EyeMed",
+    "quarter": "Q4",
+    "exchange": "TriNet III",
+    "carrier": "Aetna",
+    "twoThousand": "$100",
+    "Thousand": "$1,000",
+    "benefitType": "Vision",
+    "effectiveDate": "06/30/2025",
+    "Q1": "Q1",
+    "Q4": "Q4",
+    "month":"JUN",
+    "Year":"2025",
+    "date":"06/30/2025",
+    "fieldName": "Materials Copay In-Network"
+}]

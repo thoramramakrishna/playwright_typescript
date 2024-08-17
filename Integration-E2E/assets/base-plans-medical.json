@@ -1,0 +1,1429 @@
+{
+    "data": [
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8ddfec000a5",
+            "basePlanName": "AETNA ACO 1000 AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "ACO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8ddfec000a5_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8ddfec000a5_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8ddfec000a5_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8d5a418006c",
+            "basePlanName": "Aetna ACO 1000 CO",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "ACO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8d5a418006c_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8dc9115008d",
+            "basePlanName": "AETNA ACO 1000 CO",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "ACO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8dc9115008d_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8df431f009e",
+            "basePlanName": "AETNA ACO 2500 AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "ACO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba4aa8ad79001018ad8df431f009e_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba4aa8ad79001018ad8df431f009e_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8df431f009e_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8df1b14009d",
+            "basePlanName": "AETNA ACO 2500 Dallas",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "ACO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8df1b14009d_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8e147f900ae",
+            "basePlanName": "AETNA ACO 6500 AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "ACO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8e147f900ae_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8e147f900ae_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8e147f900ae_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8cc05e70022",
+            "basePlanName": "AETNA ACO 6500 CO",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "ACO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8cc05e70022_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8d712aa0079",
+            "basePlanName": "Aetna ACO 6500 CO",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "ACO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8d712aa0079_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8de9c43009a",
+            "basePlanName": "AETNA ACO/HDHP 3500 Dallas",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "ACO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8de9c43009a_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8d02e6f0045",
+            "basePlanName": "AETNA EPO 0 AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "EPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8d02e6f0045_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8d02e6f0045_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8d02e6f0045_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8d5db77006e",
+            "basePlanName": "AETNA EPO 1000 AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "EPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8d5db77006e_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8d5db77006e_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8d5db77006e_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8ca14de0017",
+            "basePlanName": "Aetna EPO 20 Tri-State",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "EPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba4aa8ad79001018ad8ca14de0017_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba4aa8ad79001018ad8ca14de0017_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8ca14de0017_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8ddb1760095",
+            "basePlanName": "AETNA EPO 2000 AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "EPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba4aa8ad79001018ad8ddb1760095_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba4aa8ad79001018ad8ddb1760095_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8ddb1760095_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8d639b20060",
+            "basePlanName": "Aetna EPO 2000 Tri-State",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "EPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba4aa8ad79001018ad8d639b20060_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba4aa8ad79001018ad8d639b20060_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8d639b20060_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8ca2698001b",
+            "basePlanName": "Aetna EPO 30 Tri-State",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "EPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8ca2698001b_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8ca2698001b_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8ca2698001b_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8d6645c0072",
+            "basePlanName": "Aetna EPO 4000 Tri-State",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "EPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8d6645c0072_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8d6645c0072_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8d6645c0072_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8dd2bc100a0",
+            "basePlanName": "Aetna EPO 45 Tri-State",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "EPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8dd2bc100a0_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8dd2bc100a0_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8dd2bc100a0_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8cfdcae0037",
+            "basePlanName": "Aetna Flex5 PPO AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba4aa8ad79001018ad8cfdcae0037_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba4aa8ad79001018ad8cfdcae0037_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8cfdcae0037_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8d410ae0054",
+            "basePlanName": "AETNA Flex5 PPO AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba4aa8ad79001018ad8d410ae0054_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba4aa8ad79001018ad8d410ae0054_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8d410ae0054_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8df05f800ac",
+            "basePlanName": "AETNA HDHP 3000 AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8df05f800ac_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8df05f800ac_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8df05f800ac_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8d6ebda0077",
+            "basePlanName": "Aetna HDHP 3000 AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8d6ebda0077_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8d6ebda0077_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8d6ebda0077_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8fa0c3300ac",
+            "basePlanName": "AETNA HDHP 3000 MA",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba4aa8ad79001018ad8fa0c3300ac_SBC_10012022"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8f9f4a200ab",
+            "basePlanName": "Aetna HDHP 3000 MA",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba4aa8ad79001018ad8f9f4a200ab_SBC_10012022"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8d9da080077",
+            "basePlanName": "AETNA HDHP 3000 Out-of-Area",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba4aa8ad79001018ad8d9da080077_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba4aa8ad79001018ad8d9da080077_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8d9da080077_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8d47ac30063",
+            "basePlanName": "Aetna HDHP 3000 Out-of-Area",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8d47ac30063_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8d47ac30063_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8d47ac30063_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8d5c907005e",
+            "basePlanName": "Aetna HDHP 3000-100 Tri-State",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba4aa8ad79001018ad8d5c907005e_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba4aa8ad79001018ad8d5c907005e_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8d5c907005e_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad9109a2200ba",
+            "basePlanName": "Aetna HDHP 6350 AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad9109a2200ba_SBC_10012023"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad90feb2d00b9",
+            "basePlanName": "AETNA HDHP 6350 AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad90feb2d00b9_SBC_10012023"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8c970730015",
+            "basePlanName": "Aetna HDHP 6350 Tri-State",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8c970730015_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8c970730015_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8c970730015_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8d2945e0055",
+            "basePlanName": "Aetna Indemnity 1000 NTL",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "Indemnity",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8d2945e0055_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8d2945e0055_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8d2945e0055_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8c996490014",
+            "basePlanName": "AETNA Indemnity 1000 NTL",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "Indemnity",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba4aa8ad79001018ad8c996490014_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba4aa8ad79001018ad8c996490014_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8c996490014_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8cea25a002f",
+            "basePlanName": "Aetna POS 15 Tri-State",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba4aa8ad79001018ad8cea25a002f_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba4aa8ad79001018ad8cea25a002f_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8cea25a002f_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8d8fe940089",
+            "basePlanName": "Aetna POS 30 MDCR Tri-State",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "POS",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8d8fe940089_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8d3b4fc0052",
+            "basePlanName": "Aetna POS 30 Tri-State",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba4aa8ad79001018ad8d3b4fc0052_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba4aa8ad79001018ad8d3b4fc0052_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8d3b4fc0052_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8cf92050040",
+            "basePlanName": "Aetna PPO 1000 AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8cf92050040_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8cf92050040_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8cf92050040_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8dbac8b0096",
+            "basePlanName": "AETNA PPO 1000 AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8dbac8b0096_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8dbac8b0096_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8dbac8b0096_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8c9bb420017",
+            "basePlanName": "AETNA PPO 1000 Out-of-Area",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8c9bb420017_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8c9bb420017_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8c9bb420017_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8d4490d0057",
+            "basePlanName": "Aetna PPO 1000 Out-of-Area",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba4aa8ad79001018ad8d4490d0057_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba4aa8ad79001018ad8d4490d0057_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": null
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8d07e690047",
+            "basePlanName": "Aetna PPO 1000 Tri-State",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8d07e690047_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8d07e690047_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8d07e690047_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8dcc7ec009c",
+            "basePlanName": "AETNA PPO 2000 AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8dcc7ec009c_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8dcc7ec009c_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8dcc7ec009c_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8cfa72e0041",
+            "basePlanName": "Aetna PPO 2000 AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8cfa72e0041_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8cfa72e0041_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8cfa72e0041_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8d19e6c0042",
+            "basePlanName": "Aetna PPO 2000 Tri-State",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba4aa8ad79001018ad8d19e6c0042_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba4aa8ad79001018ad8d19e6c0042_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8d19e6c0042_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8d10058003e",
+            "basePlanName": "Aetna PPO 300 AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba4aa8ad79001018ad8d10058003e_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba4aa8ad79001018ad8d10058003e_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8d10058003e_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8dd17e3009f",
+            "basePlanName": "AETNA PPO 300 AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8dd17e3009f_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8dd17e3009f_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8dd17e3009f_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8d16c61004d",
+            "basePlanName": "Aetna PPO 3000 AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8d16c61004d_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8d16c61004d_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8d16c61004d_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8dd61560092",
+            "basePlanName": "AETNA PPO 3000 AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba4aa8ad79001018ad8dd61560092_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba4aa8ad79001018ad8dd61560092_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8dd61560092_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8cf4caf0034",
+            "basePlanName": "Aetna PPO 5000 AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba4aa8ad79001018ad8cf4caf0034_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba4aa8ad79001018ad8cf4caf0034_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8cf4caf0034_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8dd85720094",
+            "basePlanName": "AETNA PPO 5000 AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba4aa8ad79001018ad8dd85720094_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba4aa8ad79001018ad8dd85720094_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8dd85720094_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8dc29bc009a",
+            "basePlanName": "AETNA PPO 6350 AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8dc29bc009a_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8dc29bc009a_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8dc29bc009a_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8cf5f15003e",
+            "basePlanName": "Aetna PPO 6350 AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8cf5f15003e_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8cf5f15003e_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8cf5f15003e_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8ca8945001f",
+            "basePlanName": "AETNA PPO 7150 AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8ca8945001f_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8ca8945001f_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8ca8945001f_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8d923fc008a",
+            "basePlanName": "Aetna PPO 7150 AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8d923fc008a_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8d923fc008a_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8d923fc008a_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8cbf4150028",
+            "basePlanName": "AETNA PPO 7150 Out-of-Area",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8cbf4150028_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8cbf4150028_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8cbf4150028_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8d008ae0043",
+            "basePlanName": "Aetna PPO 750 AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8d008ae0043_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8d008ae0043_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8d008ae0043_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8dc6bd1008c",
+            "basePlanName": "AETNA PPO 750 AZ",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba4aa8ad79001018ad8dc6bd1008c_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba4aa8ad79001018ad8dc6bd1008c_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8dc6bd1008c_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8d08fd70048",
+            "basePlanName": "Aetna PPO 750 Tri-State",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8d08fd70048_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8d08fd70048_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8d08fd70048_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8d1d3440044",
+            "basePlanName": "AETNA PPO Choice 3000/70 MO",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba4aa8ad79001018ad8d1d3440044_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba4aa8ad79001018ad8d1d3440044_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8d1d3440044_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8d628180071",
+            "basePlanName": "Aetna PPO Choice 3000/70 MO",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8d628180071_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8d628180071_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8d628180071_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba4aa8ad79001018ad8d2cee7004b",
+            "basePlanName": "AETNA PPO Choice 500 MO",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba4aa8ad79001018ad8d2cee7004b_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba4aa8ad79001018ad8d2cee7004b_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba4aa8ad79001018ad8d2cee7004b_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8d6051a006f",
+            "basePlanName": "Aetna PPO Choice 500 MO",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8d6051a006f_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8d6051a006f_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8d6051a006f_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8d1f6d80050",
+            "basePlanName": "AETNA PPO Choice 5000/70 MO",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8d1f6d80050_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8d1f6d80050_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8d1f6d80050_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8d5b711006d",
+            "basePlanName": "Aetna PPO Choice 5000/70 MO",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8d5b711006d_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8d5b711006d_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8d5b711006d_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8dcee79009d",
+            "basePlanName": "AETNA PPO Choice 6350 MO",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8dcee79009d_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8dcee79009d_SBC_10012021"
+                }
+            ]
+        },
+        {
+            "basePlanId": "8acba22f8ad78d41018ad8d6fe8e0078",
+            "basePlanName": "Aetna PPO Choice 7150 MO",
+            "benefitType": "Medical",
+            "carrier": "Aetna",
+            "planType": "PPO",
+            "planYearList": [
+                {
+                    "planYearStartDate": "10/01/2023",
+                    "planYearEndDate": "09/30/2024",
+                    "documentId": "8acba22f8ad78d41018ad8d6fe8e0078_SBC_10012023"
+                },
+                {
+                    "planYearStartDate": "10/01/2022",
+                    "planYearEndDate": "09/30/2023",
+                    "documentId": "8acba22f8ad78d41018ad8d6fe8e0078_SBC_10012022"
+                },
+                {
+                    "planYearStartDate": "10/01/2021",
+                    "planYearEndDate": "09/30/2022",
+                    "documentId": "8acba22f8ad78d41018ad8d6fe8e0078_SBC_10012021"
+                }
+            ]
+        }
+    ],
+    "_requestId": "367891a8d4cc9901082a038f87e63d7f",
+    "_statusCode": "200",
+    "_statusText": "OK",
+    "_statusMessage": "OK"
+}
